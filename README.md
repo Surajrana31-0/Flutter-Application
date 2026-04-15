@@ -273,7 +273,7 @@ All items should show `[✓]` with no errors or warnings.
 
 ```bash
 # Create new project
-flutter create my_app
+flutter create --org come.my_app my_app
 
 # Run app
 flutter run
